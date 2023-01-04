@@ -1,0 +1,17 @@
+{
+  "id" : "DTransaction",
+  "fields" : [
+    {
+      "name": "isRefund",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "name": "isReversal",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "name": "id",
+      "type": "java.lang.String"
+    }
+  ]
+}
