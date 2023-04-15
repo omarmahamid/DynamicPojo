@@ -2,9 +2,6 @@
 creating dynamic pojos, with compiling in runtime.
 
 
-[DynamicPojo.pptx](https://github.com/omarmahamid/DynamicPojo/files/10348226/DynamicPojo.pptx)
-
-
 
 do you want to create a dynamic pojo and compile it in runtime ? 
 
