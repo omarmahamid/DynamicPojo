@@ -1,0 +1,10 @@
+omar\dynamic\pojo\ClassGenerator.class
+omar\dynamic\pojo\exception\FileReaderException.class
+omar\dynamic\pojo\Main.class
+omar\dynamic\pojo\Field.class
+omar\dynamic\pojo\UploadJsonFile.class
+omar\dynamic\pojo\UploadAllJsonFiles.class
+omar\dynamic\pojo\IUploadFile.class
+omar\dynamic\pojo\PojoCreator.class
+omar\dynamic\pojo\VCB.class
+omar\dynamic\pojo\DataHolder.class

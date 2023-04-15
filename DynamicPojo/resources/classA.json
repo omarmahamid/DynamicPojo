@@ -1,0 +1,17 @@
+{
+  "id" : "A",
+  "fields" : [
+    {
+      "name": "field1",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "name": "field2",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "name": "field3",
+      "type": "java.lang.String"
+    }
+  ]
+}
